@@ -2,7 +2,7 @@
 - 👀 I’m interested in data exploration, big data, sql, data manipulation, data visualization 
 - 🌱 I’m currently learning R, Python and big data technologies
 - 💞️ I’m looking to collaborate on Data realted projects
-- 📫 How to reach me samcodes2021
+- 📫 How to reach me samcodes2021 on insta
 
 <!---
 samcodes08/samcodes08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
